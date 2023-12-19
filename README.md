@@ -24,8 +24,12 @@ https://github.com/the-grignard-reagent/Yoga-Class-.git
 
 4. Run project using 'npm start'/ 'yarn run' command.
 
+
+
 # Project Outline
-file:///home/suraj/Pictures/Screenshots/Screenshot%20from%202023-12-20%2003-16-05.png
+
+ ![Screenshot from 2023-12-20 03-16-05](https://github.com/the-grignard-reagent/Yoga-Class-/assets/76035351/b70527b7-0181-4111-99ef-3c21af0f5b31)
+
 
 # Project Overview
 
