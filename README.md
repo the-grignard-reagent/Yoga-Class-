@@ -47,7 +47,7 @@ https://github.com/the-grignard-reagent/Yoga-Class-.git
 4. Solution could be containerized.
 5. Important Info could be protected inside a ".env" variable.
 
-# Thanks
+
 ## API Reference
 
 #### Get all items
@@ -70,7 +70,5 @@ https://github.com/the-grignard-reagent/Yoga-Class-.git
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
-
+# Thanks
+Made with <3 by Suraj
