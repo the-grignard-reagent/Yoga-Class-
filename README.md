@@ -1,4 +1,3 @@
-
 # Technologies
 
 1. Frontend- HTML, CSS, React, Bootstrap, JavaScript
@@ -25,9 +24,18 @@ https://github.com/the-grignard-reagent/Yoga-Class-.git
 
 4. Run project using 'npm start'/ 'yarn run' command.
 
+# Project Outline
+file:///home/suraj/Pictures/Screenshots/Screenshot%20from%202023-12-20%2003-16-05.png
+
+# Project Overview
+
+![Screenshot from 2023-12-19 21-22-48](https://github.com/the-grignard-reagent/Yoga-Class-/assets/76035351/c7dd8b9b-1c62-4c59-82a8-ba520012a42c)
+
+![Screenshot from 2023-12-19 21-22-48](https://github.com/the-grignard-reagent/Yoga-Class-/assets/76035351/8d99f75b-d1fe-428e-98b3-ecd2ea1dc67d)
 
 
 # Improvements
+
 
 1. Cloud Architecture could have been implemented.
 2. OAuth can be implemented.
